@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=reisque&fontAlign=50&fontAlignY=40&desc=Python%20Developer%20%7C%20Backend%20%7C%20Automation&descAlign=50&descAlignY=60&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=reisque&fontAlign=50&fontAlignY=50&fontColor=ffffff" alt="header" />
 </p>
-
-<h1 align="center">Hi, I'm reisque</h1>
 
 <p align="center">
   Backend and automation developer focused on Python, software design, and performance.
@@ -16,7 +14,7 @@
     <img src="https://img.shields.io/badge/Telegram-@reisque-26A5E4?logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://discord.gg/Zj7vt5hPj">
-    <img src="https://img.shields.io/badge/Discord-@reisque-5865F2?logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-Community-5865F2?logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
@@ -36,10 +34,49 @@ My main interests include:
 
 ---
 
-## Core Stack
+## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,docker,git,linux,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,bash,git,linux,docker,vscode,postgres&perline=5" alt="Tech Stack" />
+</p>
+
+---
+
+## Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        height="180"
+        src="https://github-readme-stats.vercel.app/api?username=reisque&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=8b5cf6&text_color=e5e7eb&icon_color=8b5cf6&rank_icon=github"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center">
+      <img
+        height="180"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisque&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=8b5cf6&text_color=e5e7eb"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        height="180"
+        src="https://streak-stats.demolab.com?user=reisque&theme=transparent&hide_border=true&stroke=7c3aed&ring=8b5cf6&fire=ec4899&currStreakNum=8b5cf6&sideNums=8b5cf6&currStreakLabel=e5e7eb&sideLabels=e5e7eb&dates=d1d5db"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=reisque&bg_color=00000000&color=e5e7eb&line=8b5cf6&point=ec4899&area=true&area_color=8b5cf6&hide_border=true"
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
@@ -51,23 +88,6 @@ My main interests include:
 - Type hints are part of the design
 - Refactoring is continuous
 - Performance matters after measurement
-
----
-
-## GitHub Overview
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=reisque&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisque&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=reisque&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reisque&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
 
 ---
 
@@ -91,7 +111,7 @@ Windows desktop GUI application built with `tkinter` to create and launch isolat
     <img src="https://img.shields.io/badge/Telegram-Message_me-26A5E4?logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://discord.gg/Zj7vt5hPj">
-    <img src="https://img.shields.io/badge/Discord-Community-5865F2?logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
