@@ -1,16 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=reisque&fontAlign=50&fontAlignY=50&fontColor=ffffff" alt="header" />
-</p>
-
-<p align="center">
-  Backend and automation developer focused on Python, software design, and performance.
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=REISQUE&fontAlign=50&fontAlignY=42&fontColor=ffffff&fontSize=72"
+    alt="header"
+  />
 </p>
 
 <br>
 
 <hr>
 
-<h2 align="left">About</h2>
+<p><strong>About</strong></p>
 
 <p>
   I write code, break things, and occasionally fix them. Mostly Python. Always dark theme. Never enough coffee.
@@ -20,24 +19,27 @@
 
 <hr>
 
-<h2 align="left">Stack</h2>
+<p><strong>Stack</strong></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,bash,git,linux,docker,vscode,postgres&perline=5" alt="Tech Stack" />
+  <img
+    src="https://skillicons.dev/icons?i=python,fastapi,flask,django,bash,git,linux,docker,vscode,postgres&perline=5"
+    alt="Tech Stack"
+  />
 </p>
 
 <br>
 
 <hr>
 
-<h2 align="left">Stats</h2>
+<p><strong>Stats</strong></p>
 
 <table align="center">
   <tr>
     <td align="center">
       <img
         height="180"
-        src="https://github-readme-stats.vercel.app/api?username=reisque&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&rank_icon=github"
+        src="https://github-readme-stats.vercel.app/api?username=reisque&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&rank_icon=percentile"
         alt="GitHub Stats"
       />
     </td>
@@ -69,6 +71,24 @@
 
 <br>
 
+<hr>
+
+<p><strong>Contact</strong></p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364" alt="footer" />
+  <a href="https://t.me/reisque">
+    <img
+      src="https://img.shields.io/badge/Telegram-@reisque-38bdf8?logo=telegram&logoColor=white&labelColor=4b5563"
+      alt="Telegram"
+    />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364"
+    alt="footer"
+  />
 </p>
