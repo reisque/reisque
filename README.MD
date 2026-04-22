@@ -5,8 +5,6 @@
   />
 </p>
 
-<br>
-
 <hr>
 
 <p><strong>About</strong></p>
@@ -14,8 +12,6 @@
 <p>
   I write code, break things, and occasionally fix them. Mostly Python. Always dark theme. Never enough coffee.
 </p>
-
-<br>
 
 <hr>
 
@@ -27,8 +23,6 @@
     alt="Tech Stack"
   />
 </p>
-
-<br>
 
 <hr>
 
@@ -66,8 +60,6 @@
   />
 </p>
 
-<br>
-
 <hr>
 
 <p><strong>Contact</strong></p>
@@ -80,8 +72,6 @@
     />
   </a>
 </p>
-
-<br>
 
 <p align="center">
   <img
