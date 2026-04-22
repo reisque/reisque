@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=REISQUE&fontAlign=50&fontAlignY=42&fontColor=ffffff&fontSize=72"
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=REISQUE&fontAlign=50&fontAlignY=44&fontColor=ffffff&fontSize=72"
     alt="header"
   />
 </p>
@@ -14,6 +14,8 @@
 <p>
   I write code, break things, and occasionally fix them. Mostly Python. Always dark theme. Never enough coffee.
 </p>
+
+<br>
 
 <hr>
 
@@ -32,33 +34,37 @@
 
 <p><strong>Stats</strong></p>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img
-        height="180"
-        src="https://github-readme-stats.vercel.app/api?username=reisque&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&rank_icon=percentile"
+        src="https://github-readme-stats.vercel.app/api?username=reisque&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&include_all_commits=true&custom_title=REISQUE%27s%20GitHub%20Stats"
         alt="GitHub Stats"
       />
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <img
-        height="180"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisque&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=38bdf8&text_color=e5e7eb"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisque&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=38bdf8&text_color=e5e7eb&card_width=420"
         alt="Top Languages"
       />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img
-        height="180"
-        src="https://streak-stats.demolab.com?user=reisque&theme=transparent&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&currStreakLabel=e5e7eb&sideLabels=e5e7eb&dates=d1d5db"
-        alt="GitHub Streak"
-      />
-    </td>
-  </tr>
 </table>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/GRADE-A-38bdf8?style=for-the-badge&labelColor=0f172a"
+    alt="Grade"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com?user=reisque&theme=transparent&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&currStreakLabel=e5e7eb&sideLabels=e5e7eb&dates=d1d5db"
+    alt="GitHub Streak"
+  />
+</p>
 
 <p align="center">
   <img
