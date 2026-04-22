@@ -7,7 +7,7 @@
 
 <hr>
 
-<h1>About</h1>
+<h0.5>About</h0.5>
 
 <p>
   I write code, break things, and occasionally fix them. Mostly Python. Always dark theme. Never enough coffee.
