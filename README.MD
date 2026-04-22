@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Caique%20Reis&fontAlign=50&fontAlignY=40&desc=Python%20Developer%20%7C%20Clean%20Code%20%7C%20Performance&descAlign=50&descAlignY=60&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=reisque&fontAlign=50&fontAlignY=40&desc=Python%20Developer%20%7C%20Backend%20%7C%20Automation&descAlign=50&descAlignY=60&fontColor=ffffff" alt="header" />
 </p>
 
 <h1 align="center">Hi, I'm reisque</h1>
@@ -12,11 +12,11 @@
   <a href="https://github.com/reisque">
     <img src="https://img.shields.io/badge/GitHub-@reisque-181717?logo=github" alt="GitHub" />
   </a>
-  <a href="mailto:tiagotelescaique@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://t.me/reisque">
+    <img src="https://img.shields.io/badge/Telegram-@reisque-26A5E4?logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://discord.gg/Zj7vt5hPj">
+    <img src="https://img.shields.io/badge/Discord-@reisque-5865F2?logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
@@ -24,14 +24,14 @@
 
 ## About
 
-I build Python applications with emphasis on clean architecture, explicit typing, maintainability, and practical performance.
+I build Python applications with a strong focus on readability, explicit typing, maintainability, and practical performance.
 
 My main interests include:
 
 - Backend systems
 - APIs and integrations
 - Automation
-- Developer tools
+- Developer tooling
 - Refactoring and code quality
 
 ---
@@ -39,7 +39,7 @@ My main interests include:
 ## Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,docker,git,linux,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,docker,git,linux,vscode" alt="Tech Stack" />
 </p>
 
 ---
@@ -47,10 +47,10 @@ My main interests include:
 ## Engineering Principles
 
 - Readability is a feature
-- Strong preference for explicit code over clever code
-- Type hints as part of design, not decoration
-- Refactor aggressively when complexity grows
-- Optimize after understanding the real bottleneck
+- Explicit code is better than clever code
+- Type hints are part of the design
+- Refactoring is continuous
+- Performance matters after measurement
 
 ---
 
@@ -73,25 +73,25 @@ My main interests include:
 
 ## Selected Projects
 
-### Project Name
-Brief and objective description of the project, problem solved, and core technologies.
+### Telegram Giveaways Bot
+Telegram giveaway bot that verifies whether a user joined a required channel before accepting participation, stores `/start` attempts, keeps unique participant IDs, blocks duplicate entries, and supports a configurable slot limit via environment variables.
 
-### Project Name
-Brief and objective description of the project, emphasizing architecture or automation value.
+### Telegram Accounts Manager
+Admin-only Telegram bot built with `python-telegram-bot`, `Telethon`, and SQLite to register and manage multiple Telegram accounts, including login flows with code and 2FA, account listing, and profile updates such as name, bio, username, and photo.
 
-### Project Name
-Brief and objective description of the project, focusing on implementation quality or performance.
+### Chrome Profiles Manager
+Windows desktop GUI application built with `tkinter` to create and launch isolated Google Chrome profiles using separate `--user-data-dir` directories, with no external Python dependencies.
 
 ---
 
 ## Contact
 
 <p align="center">
-  <a href="mailto:tiagotelescaique@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send_a_message-EA4335?logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://t.me/reisque">
+    <img src="https://img.shields.io/badge/Telegram-Message_me-26A5E4?logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://discord.gg/Zj7vt5hPj">
+    <img src="https://img.shields.io/badge/Discord-Community-5865F2?logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
