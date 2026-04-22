@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=reisque&fontAlign=50&fontAlignY=50&fontColor=ffffff" alt="header" />
 </p>
 
-<p align="center">
-  Backend and automation developer focused on Python, software design, and performance.
-</p>
-
 ---
 
 ## About
