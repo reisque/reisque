@@ -15,7 +15,7 @@
 
 <hr>
 
-<h1>Stack</h1>
+<h3>Stack</h3>
 
 <p align="center">
   <img
@@ -26,7 +26,7 @@
 
 <hr>
 
-<h1>Stats</h1>
+<h3>Stats</h3>
 
 <table align="center" width="100%">
   <tr>
@@ -62,7 +62,7 @@
 
 <hr>
 
-<h1>Contact</h1>
+<h3>Contact</h3>
 
 <p align="center">
   <a href="https://t.me/reisque">
