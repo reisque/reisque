@@ -38,7 +38,7 @@
   <tr>
     <td align="center" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=reisque&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&include_all_commits=true&rank_icon=percentile&custom_title=REISQUE%27s%20GitHub%20Stats"
+        src="https://github-readme-stats.vercel.app/api?username=reisque&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&rank_icon=percentile&custom_title=REISQUE%27s%20GitHub%20Stats"
         alt="GitHub Stats"
       />
     </td>
