@@ -15,8 +15,6 @@
   I write code, break things, and occasionally fix them. Mostly Python. Always dark theme. Never enough coffee.
 </p>
 
-<br>
-
 <hr>
 
 <p><strong>Stack</strong></p>
