@@ -7,7 +7,7 @@
 
 <hr>
 
-<p><strong>About</strong></p>
+<h1>About</h1>
 
 <p>
   I write code, break things, and occasionally fix them. Mostly Python. Always dark theme. Never enough coffee.
@@ -15,7 +15,7 @@
 
 <hr>
 
-<p><strong>Stack</strong></p>
+<h1>Stack</h1>
 
 <p align="center">
   <img
@@ -26,7 +26,7 @@
 
 <hr>
 
-<p><strong>Stats</strong></p>
+<h1>Stats</h1>
 
 <table align="center" width="100%">
   <tr>
@@ -62,7 +62,7 @@
 
 <hr>
 
-<p><strong>Contact</strong></p>
+<h1>Contact</h1>
 
 <p align="center">
   <a href="https://t.me/reisque">
