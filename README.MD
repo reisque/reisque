@@ -30,21 +30,36 @@
 <h3 align="center">Stats</h3>
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=reisque&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&rank_icon=percentile"
-    alt="GitHub Stats"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisque&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=38bdf8&text_color=e5e7eb"
-    alt="Top Languages"
-  />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=reisque&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&rank_icon=github&cache_seconds=1800"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      width="420"
+      src="https://github-readme-stats.vercel.app/api?username=reisque&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&rank_icon=github&cache_seconds=1800"
+      alt="GitHub Stats"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reisque&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=e5e7eb&langs_count=8&cache_seconds=1800"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      width="420"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisque&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=e5e7eb&langs_count=8&cache_seconds=1800"
+      alt="Top Languages"
+    />
+  </picture>
 </p>
 
 <p align="center">
   <img
-    width="70%"
+    width="620"
     src="https://github-readme-streak-stats.herokuapp.com?user=reisque&theme=transparent&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&currStreakLabel=e5e7eb&sideLabels=e5e7eb&dates=d1d5db"
     alt="GitHub Streak"
   />
@@ -52,7 +67,7 @@
 
 <p align="center">
   <img
-    width="95%"
+    width="900"
     src="https://github-readme-activity-graph.vercel.app/graph?username=reisque&bg_color=00000000&color=e5e7eb&line=38bdf8&point=38bdf8&area=true&area_color=38bdf8&hide_border=true&custom_title=Contribution%20Graph"
     alt="Contribution Graph"
   />
