@@ -9,8 +9,9 @@
 
 <h3>About</h3>
 
-<p>
-  I write code, break things, and occasionally fix them. Mostly Python. Always dark theme. Never enough coffee.
+<p align="center">
+  I write code, break things, and occasionally fix them.<br>
+  Mostly Python. Always dark theme. Never enough coffee.
 </p>
 
 <hr>
@@ -28,22 +29,19 @@
 
 <h3>Stats</h3>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=reisque&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&rank_icon=percentile&custom_title=REISQUE%27s%20GitHub%20Stats"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisque&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=38bdf8&text_color=e5e7eb&card_width=420"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=reisque&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&rank_icon=percentile&custom_title=REISQUE%27s%20GitHub%20Stats"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisque&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=38bdf8&text_color=e5e7eb"
+    alt="Top Languages"
+  />
+</p>
 
 <p align="center">
   <img
