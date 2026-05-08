@@ -31,29 +31,14 @@
 
 <p align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=reisque&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&rank_icon=percentile&custom_title=REISQUE%27s%20GitHub%20Stats"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisque&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=38bdf8&text_color=e5e7eb"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="180"
-    src="https://streak-stats.demolab.com?user=reisque&theme=transparent&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&currStreakLabel=e5e7eb&sideLabels=e5e7eb&dates=d1d5db"
+    src="https://streak-stats.demolab.com?user=08062005&theme=transparent&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&currStreakLabel=e5e7eb&sideLabels=e5e7eb&dates=d1d5db"
     alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=reisque&bg_color=00000000&color=e5e7eb&line=38bdf8&point=38bdf8&area=true&area_color=38bdf8&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=08062005&bg_color=00000000&color=e5e7eb&line=38bdf8&point=38bdf8&area=true&area_color=38bdf8&hide_border=true&custom_title=Contribution%20Graph"
     alt="Contribution Graph"
   />
 </p>
